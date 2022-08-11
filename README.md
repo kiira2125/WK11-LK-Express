@@ -89,7 +89,7 @@ You haven’t learned how to handle DELETE requests, but this application offers
 
 ## Links
 
-* The URL of the functional, deployed application.
+* The URL of the functional, deployed application in Heroku:
     [Deployed-Link](https://)
 
 * 
